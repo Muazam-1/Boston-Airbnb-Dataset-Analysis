@@ -13,13 +13,22 @@ While working with the first project of Udacity nano degree program there were f
             
 
             
-The Project Consist of three files i.e; listings.csv , reviews.csv and calendar.csv.
+The Project Consist of three files i.e; 
+
+listings.csv 
+
+reviews.csv 
+
+calendar.csv.
 
 Libraries:
 
-Pandas,
-Numpy,
-Seaborn,
+Pandas
+
+Numpy
+
+Seaborn
+
 Matplotlib.
 
 
