@@ -5,23 +5,23 @@ Project Overview:
 
 While working with the first project of Udacity nano degree program there were few questions that came up in my mind while i was working with the Boston Airbnb Dataset.
 
-             Number of reviews based on scores.
+             1.Number of reviews based on scores.
+            
+             2.Price Based on Neighborhood.
              
-             Price Based on Neighborhood.
-             
-             Reviews based on Neighborhood.
+             3.Reviews based on Neighborhood.
             
 
             
 The Project Consist of three files i.e; 
 
-listings.csv 
+1.listings.csv 
 
-reviews.csv 
+2.reviews.csv 
 
-calendar.csv.
+3.calendar.csv.
 
-Libraries:
+**Libraries:**
 
 Pandas
 
