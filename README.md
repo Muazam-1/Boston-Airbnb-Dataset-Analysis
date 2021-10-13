@@ -1,6 +1,10 @@
 # Boston-Airbnb-Dataset-Analysis
 Boston Airbnb Dataset Analysis
 
+Medium Blog Link: 
+
+https://medium.com/@muazamarshad5.ma/boston-airbnb-dataset-analysis-3fb50eabf1ae
+
 **Project Overview:**
 
 While working with the first project of Udacity nano degree program there were few questions that came up in my mind while i was working with the Boston Airbnb Dataset.
