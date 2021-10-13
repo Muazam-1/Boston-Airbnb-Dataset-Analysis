@@ -14,9 +14,9 @@ The Project Consist of three files i.e; listings.csv , reviews.csv and calendar.
 
 Libraries:
 
-Pandas
-Numpy
-Seaborn
-Matplotlib
+Pandas,
+Numpy,
+Seaborn,
+Matplotlib.
 
 
